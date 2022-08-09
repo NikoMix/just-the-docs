@@ -29,7 +29,7 @@ By default, all pages will appear as top level pages in the main nav unless a pa
 
 ## Ordering pages
 
-To specify new a page order, you can use the `nav_order` parameter in your pages' YAML front matter. Test
+To specify new a page order, you can use the `nav_order` parameter in your pages' YAML front matter.
 
 #### Example
 
