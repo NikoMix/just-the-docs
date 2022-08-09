@@ -22,7 +22,7 @@ nav_order: 6
 New
 {: .label .label-green }
 
-Just the Docs supports two color schemes: light (default), and dark. Just setup the indexing asdasd
+Just the Docs supports two color schemes: light (default), and dark. Just setup the indexing
 
 To enable a color scheme, set the `color_scheme` parameter in your site's `_config.yml` file:
 
