@@ -15,7 +15,7 @@ parent: Utilities
 
 ---
 
-Second commits also get indexed. Sample Index
+Second commits also get indexed.
 All the colors used in Just the Docs have been systematized into a series of variables that have been extended to both font color and background color utility classes.
 
 ## Light Greys
