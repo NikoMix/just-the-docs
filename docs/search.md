@@ -27,6 +27,8 @@ By default, all generated HTML pages are indexed using the following data points
 
 ## Enable search in configuration
 
+Added Content
+
 In your site's `_config.yml`, enable search:
 
 ```yaml
